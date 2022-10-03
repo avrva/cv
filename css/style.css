@@ -1,0 +1,203 @@
+*,*:auto,*:before
+{
+    margin:0;
+    box-sizing: 0;
+}
+.logo {
+    background-color:aqua ;
+    height: 300px;
+    width: 300px;
+}
+.logo img{
+    height: 150px;
+    margin-left: 90px;
+    margin-top: 35px;
+    text-align: center;
+}
+.header_container{
+    background-color: rgb(46, 43, 43);
+    height: 600px;
+    width: 300px;
+    color:aliceblue
+    
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    max-width:1200px;
+    margin: 0 auto;
+}
+.daa {
+    margin-left: 75px;
+    margin-top: 10px;
+    justify-content: space-between;
+    width: 150px;
+    text-align: center;
+}
+.daa h1 {
+    font-size:23px;
+}
+.daa h2 {
+    font-size:20px;
+}
+.contact {
+    text-align:center;
+    
+}
+.contact hr{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.contact h2{
+    font-size:20px;
+    margin-right: 70px;
+}
+
+.contact h3 {
+    font-size:17px;
+    margin-right: 90px;
+}
+.contact p {
+    font-size:15px;
+    margin-left: 70px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    margin-right: 90px;
+}
+.education{
+    margin-top: 40px;
+}
+header{
+    width:31% ;
+    height: auto;
+
+}
+main{
+    width: 69%;
+    height: auto;
+}
+.education h2{
+font-size: 20px;
+margin-left: 80px;
+}
+.education h3 {
+font-size: 16px;
+margin-left: 80px;
+margin-top: 11px;
+}
+.education h4 {
+    font-size: 16px;
+    margin-left: 84px;
+    margin-top: 2px;
+    }
+.education p {
+font-size: 13px;
+margin-left: 84px;
+margin-top: 2px;
+}
+.education hr{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.language {
+    margin-top: 40px;
+}
+.language hr{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.language h2{
+    margin-left:80px;
+    font-size: 20px;
+}
+.language h3{
+    margin-left:80px;
+    font-size: 16px;
+}
+.profile_info h2{
+    font-size: 18px;
+
+}
+.work_experience h2{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.progress-bar, .progress-bar-edit {
+    display: block;
+    width: 95%;
+    height: 4px;
+    background: #ddd;
+  }
+  
+  .background {
+    display: block;
+    width: 72%;
+    height: 4px;
+    background: aqua;
+  }
+  .background1 {
+    display: block;
+    width: 78%;
+    height: 4px;
+    background: aqua;
+  }
+  .background2 {
+    display: block;
+    width: 50%;
+    height: 4px;
+    background: aqua;
+  }
+  .background3 {
+    display: block;
+    width: 90%;
+    height: 4px;
+    background: aqua;
+  }
+  .background4 {
+    display: block;
+    width: 100%;
+    height: 4px;
+    background: aqua;
+  }
+  .background5 {
+    display: block;
+    width: 1%;
+    height: 4px;
+    background: aqua;
+  }
+  .skills_expertise {
+    margin-top:30px;
+  }
+  .skills_expertise h2{
+    font-size: 20px;
+  }
+  .skills_expertise h3{
+    font-size: 16px;
+  }
+  .my_reference{
+    margin-top:30px;
+  }
+  .my_reference h2{
+    font-size:20px;
+    margin-top:5px;
+  }
+  .my_reference h3{
+    font-size:15px;
+    margin-top:5px;
+  }
+  .my_reference p{
+    font-size:13px;
+    margin-top:5px;
+  }
+  .block-left{
+    width:50%;
+    height:800px;
+    overflow:auto;
+    float:left;
+  }
+  .block-right{
+    width:50%;
+    height:800px;
+    overflow:auto;
+  }
